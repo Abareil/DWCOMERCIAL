@@ -1,2 +1,5 @@
 # DWCOMERCIAL
-Ejercicio: proceso ETL sobre un archivo de Excel
+Ejercicio: Modelado y carga de Datawarehouse DWCOMERCIAL. 
+Fuente: archivo de Excel. 
+Proceso ETL con T-SQL
+
